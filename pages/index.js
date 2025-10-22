@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>perfec storm project: Abraham Gracco</h1>;
+  return <h1>perfec storm project: Laschamp and neandertais extinction</h1>;
 }
 
 export default Home;
