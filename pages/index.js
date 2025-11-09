@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> Transitions are needs to our growth!</h1>;
+  return <h1> He comes the quantum!</h1>;
 }
 
 export default Home;
