@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> Vancouver to Belo Horizonte!</h1>;
+  return <h1> From Belo Horizonte to Vancouver!</h1>;
 }
 
 export default Home;
