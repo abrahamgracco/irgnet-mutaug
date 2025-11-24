@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> Make us feel sluggish!</h1>;
+  return <h1> Positive vibe+gratitude+Purpose!</h1>;
 }
 
 export default Home;
