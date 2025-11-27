@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> Dupe duels</h1>;
+  return <h1> Rough vibes</h1>;
 }
 
 export default Home;
