@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> pinky promisse and ditching</h1>;
+  return <h1> costly burden and non-negotiable</h1>;
 }
 
 export default Home;
