@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> Budgets are stretched</h1>;
+  return <h1> Budgets are stretched, main narrows</h1>;
 }
 
 export default Home;
