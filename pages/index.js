@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> jeopardy</h1>;
+  return <h1>shaky trade truce</h1>;
 }
 
 export default Home;
