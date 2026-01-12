@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Let's get physical</h1>;
+  return <h1>Unfazed</h1>;
 }
 
 export default Home;
