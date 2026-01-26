@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Bundle up buoyed skake off puzzling</h1>;
+  return <h1>Outlawed</h1>;
 }
 
 export default Home;
