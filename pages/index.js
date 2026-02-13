@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>flipside</h1>;
+  return <h1>AIamplify</h1>;
 }
 
 export default Home;
