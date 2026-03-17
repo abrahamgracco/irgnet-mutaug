@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>marketplace</h1>;
+  return <h1>pivoted</h1>;
 }
 
 export default Home;
