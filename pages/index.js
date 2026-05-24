@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>come from away</h1>;
+  return <h1>blue print</h1>;
 }
 
 export default Home;
