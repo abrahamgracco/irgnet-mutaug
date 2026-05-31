@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>blue print</h1>;
+  return <h1>Mystery by selectivity</h1>;
 }
 
 export default Home;
