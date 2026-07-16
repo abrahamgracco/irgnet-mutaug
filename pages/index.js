@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Lip Service</h1>;
+  return <h1>Reality bites</h1>;
 }
 
 export default Home;
