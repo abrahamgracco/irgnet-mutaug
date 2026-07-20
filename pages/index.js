@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Neck and neck</h1>;
+  return <h1>/Here and there</h1>;
 }
 
 export default Home;
