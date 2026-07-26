@@ -16,6 +16,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^17.4.2",
     "next": "^13.1.6",
     "node-pg-migrate": "^9.0.0",
     "pg": "^8.16.3",
