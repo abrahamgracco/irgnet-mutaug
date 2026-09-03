@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>VolcanoTunel</h1>;
+  return <h1>Ressemblent</h1>;
 }
 
 export default Home;
